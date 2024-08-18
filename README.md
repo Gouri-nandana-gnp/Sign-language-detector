@@ -1,6 +1,6 @@
-# Open Spelling Bee (OSB)
+# SIGN LANGUAGE DETECTION GAME
 
-# 🐝
+
 
 Open source port of New York Times' puzzle game Spelling Bee for the command line.
 
