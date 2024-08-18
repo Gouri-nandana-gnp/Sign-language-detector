@@ -2,9 +2,7 @@
 
 
 
-Open source port of New York Times' puzzle game Spelling Bee for the command line.
-
-Requires Python 3.x and nothing but standard Python libraries.
+This project is a game that uses a webcam to detect American Sign Language (ASL) gestures in real-time using OpenCV and a pre-trained machine learning model. The objective of the game is to correctly sign letters to spell out words displayed on the screen.
 
 ## to play
 
