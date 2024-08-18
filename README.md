@@ -29,7 +29,6 @@ This project is a game that uses a webcam to detect American Sign Language (ASL)
    ```bash
    git clone https://github.com/Gouri-nandana-gnp/Sign-language-detector.git
    cd Sign-language-detector
-
 2. Install the required dependencies:
   ```bash
   pip install -r requirements.txt
