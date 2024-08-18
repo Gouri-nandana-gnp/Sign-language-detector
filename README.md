@@ -4,6 +4,8 @@
 
 This project is a game that uses a webcam to detect American Sign Language (ASL) gestures in real-time using OpenCV and a pre-trained machine learning model. The objective of the game is to correctly sign letters to spell out words displayed on the screen.
 
+
+
 ## Features
 - Real-Time Sign Language Detention: The game uses a pre-trained model to detect ASL signs 
   through your webcam.
@@ -13,12 +15,20 @@ This project is a game that uses a webcam to detect American Sign Language (ASL)
   score based on correct or incorrect signs.
 
 
+
 ## Requirements
 
 - Python 3.x
 - TensorFlow
 - Opencv
 - NumPy
+
+## Installation 
+
+1. Clone the repository:
+
+     git clone https://github.com/Gouri-nandana-gnp/Sign-language-detector.git
+     cd Sign-language-detector
 
 ## to play
 
