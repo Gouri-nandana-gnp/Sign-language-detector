@@ -27,8 +27,17 @@ This project is a game that uses a webcam to detect American Sign Language (ASL)
 
 1. Clone the repository:
    ```bash
-     git clone https://github.com/Gouri-nandana-gnp/Sign-language-detector.git
-     cd Sign-language-detector
+   git clone https://github.com/Gouri-nandana-gnp/Sign-language-detector.git
+   cd Sign-language-detector
+
+2. Install the required dependencies:
+  ```bash
+  pip install -r requirements.txt
+
+3.Download the pre-trained model and labels:
+
+  -Place the model (keras_model.h5) in the ./Model directory.
+  -Place the label file (labels.txt) in the ./Model directory.
 
 ## to play
 
