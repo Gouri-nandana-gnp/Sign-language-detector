@@ -33,10 +33,10 @@ This project is a game that uses a webcam to detect American Sign Language (ASL)
   ```bash
   pip install -r requirements.txt
   ```
-3.Download the pre-trained model and labels:
+3. Download the pre-trained model and labels:
 
-  -Place the model (keras_model.h5) in the ./Model directory.
-  -Place the label file (labels.txt) in the ./Model directory.
+  - Place the model (keras_model.h5) in the ./Model directory.
+  - Place the label file (labels.txt) in the ./Model directory.
 
 
 ## Usage
