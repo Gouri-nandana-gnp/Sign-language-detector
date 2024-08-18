@@ -53,12 +53,12 @@ This project is a game that uses a webcam to detect American Sign Language (ASL)
 
 ## How It Works
 
--Model Loading: The game loads a pre-trained ASL model (keras_model.h5) to recognize hand 
- gestures.
--Webcam Input: The game captures images from your webcam and preprocesses them for the model.
--Prediction: The model predicts the letter being signed based on the input image, and the game 
- logic determines if the letter is correct.
--Feedback: The game updates the displayed word and score based on your input.
+- Model Loading: The game loads a pre-trained ASL model (keras_model.h5) to recognize hand 
+  gestures.
+- Webcam Input: The game captures images from your webcam and preprocesses them for the model.
+- Prediction: The model predicts the letter being signed based on the input image, and the game 
+  logic determines if the letter is correct.
+- Feedback: The game updates the displayed word and score based on your input.
 
 ## Contributing
 Contributions are welcome! Feel free to open a pull request or report issues.
