@@ -18,8 +18,8 @@ This project is a game that uses a webcam to detect American Sign Language (ASL)
 
 ## Requirements
 
-- Python 3.x
-- TensorFlow
+- Python 3.10 or 3.11
+- TensorFlow 2.10 or higher
 - Opencv
 - NumPy
 
